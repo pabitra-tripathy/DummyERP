@@ -1,9 +1,7 @@
 this is a java file
-
-I am happy to work with it pabitra@pabitra-attitude:~/DummyERP$ ls
+I am happy to work on it. pabitra@pabitra-attitude:~/DummyERP$ ls
 abc.java
-
-"pabitra@pabitra-attitude:~/DummyERP$ git push origin master
+pabitra@pabitra-attitude:~/DummyERP$ git push origin master
 Username for 'https://github.com': pabitra29
 Password for 'https://pabitra29@github.com': 
 Counting objects: 3, done.
@@ -16,7 +14,4 @@ pabitra@pabitra-attitude:~/DummyERP$ clear
 pabitra@pabitra-attitude:~/DummyERP$ 
 
 
-
-test java plan 
-sdflkdsjf
 
